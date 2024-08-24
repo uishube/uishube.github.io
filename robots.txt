@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://uishube.github.io/sitemap.html.gz
+Sitemap: https://uishube.github.io/app/sitemap.html.gz
+Sitemap: https://uishube.github.io/assets/sitemap.html.gz
+Sitemap: https://uishube.github.io/css/sitemap.html.gz
+Sitemap: https://uishube.github.io/includes/sitemap.html.gz
+Sitemap: https://uishube.github.io/item/sitemap.html.gz
+Sitemap: https://uishube.github.io/src/sitemap.html.gz
